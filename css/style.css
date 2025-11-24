@@ -1,18 +1,18 @@
 /* CONFIGURACIONES BASICAS */
 @font-face {
     font-family: 'Cinzel';
-    src: url('assets/fonts/Cinzel_Decorative/CinzelDecorative-Regular.ttf');
+    src: url('../assets/fonts/Cinzel_Decorative/CinzelDecorative-Regular.ttf');
 }
 
 @font-face {
     font-family: 'CinzelBlack';
-    src: url('assets/fonts/Cinzel_Decorative/CinzelDecorative-Black.ttf');
+    src: url('../assets/fonts/Cinzel_Decorative/CinzelDecorative-Black.ttf');
 }
 
 
 @font-face {
     font-family: 'Merriwather';
-    src: url('assets/fonts/Merriweather/static/Merriweather_120pt-Regular.ttf');
+    src: url('../assets/fonts/Merriweather/static/Merriweather_120pt-Regular.ttf');
 }
 
 .navbar-brand {
